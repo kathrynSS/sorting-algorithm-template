@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "测试冒泡排序",
+      "setup": "pip install pytest",
+      "run": "python -m pytest tests/test_bubble.py -v",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 30
+    }
+  ]
+} 
